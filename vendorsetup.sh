@@ -1,1 +1,2 @@
 add_lunch_combo aosp_nozomi-userdebug
+add_lunch_combo aosp_aoba-userdebug
