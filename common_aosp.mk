@@ -5,7 +5,6 @@ PRODUCT_PACKAGES += \
     Stk \
     Superuser \
     su \
-    DSPManager \
     libcyanogen-dsp 
 	
 PRODUCT_COPY_FILES += \
