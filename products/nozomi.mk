@@ -12,7 +12,7 @@ $(call inherit-product, frameworks/base/data/sounds/AllAudio.mk)
 
 
 # Setup device specific product configuration.
-PRODUCT_NAME := full_nozomi
+PRODUCT_NAME := aosp_nozomi
 PRODUCT_BRAND := Sony
 PRODUCT_DEVICE := nozomi
 PRODUCT_MODEL := Xperia S
