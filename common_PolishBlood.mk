@@ -1,11 +1,8 @@
-# chyba cie majk posrało że mój build bedzie nazwany twoim nickiem xD
-USER := pcfighter-biedroid
+USER := djolivier
 
 # Unofficial packages that I used from trees outside AOSP
 PRODUCT_PACKAGES += \
-    CMFileManager \
     Stk \
-    Apollo \
     Superuser \
     su \
     DSPManager \
