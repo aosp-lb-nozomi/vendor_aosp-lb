@@ -8,7 +8,7 @@ TARGET_SCREEN_WIDTH := 720
 $(call inherit-product, vendor/aosp-lb/common_aosp.mk)
 
 # Add all AOSP ringtones(disable for more space on /system)
-$(call inherit-product, frameworks/base/data/sounds/AllAudio.mk)
+$(call inherit-product, frameworks/base/data/sounds/NewAudio.mk)
 
 
 # Setup device specific product configuration.
